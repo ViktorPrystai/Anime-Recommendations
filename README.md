@@ -1,5 +1,6 @@
 # Anime-Recommendations
-Використаний дата сет: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+## Джерело Датасету
+Датасет взятий з [Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
 
 ## Огляд
 Цей датасет містить інформацію про вподобання 73 516 користувачів стосовно 12 294 аніме. Кожен користувач може додавати аніме до свого списку перегляду та ставити їм оцінки, і цей датасет є компіляцією цих оцінок.
@@ -21,6 +22,3 @@
 
 ## Використання
 Цей датасет може бути використаний для різних цілей, включаючи колаборативний фільтринг, системи рекомендацій та аналіз трендів в аніме.
-
-## Джерело Датасету
-Датасет взятий з [Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
